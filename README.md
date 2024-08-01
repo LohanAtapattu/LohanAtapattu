@@ -16,8 +16,15 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lohanatapattu&show_icons=true&theme=highcontrast&locale=en" alt="lohanatapattu" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lohanatapattu&show_icons=true&theme=highcontrast&locale=en" alt="lohanatapattu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lohanatapattu&theme=highcontrast" alt="lohanatapattu" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lohanatapattu&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="lohanatapattu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lohanatapattu&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="lohanatapattu" /></p> -->
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+![](https://github-readme-stats.vercel.app/api?username=LohanAtapattu&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LohanAtapattu&theme=catppuccin_latte&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LohanAtapattu&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
