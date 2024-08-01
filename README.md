@@ -4,7 +4,7 @@
 
 - 🔭 I’m passionate about **Electronic Circuit and Enclosure Design, PCB design, VLSI design and Digital Systems Design.**
 
-- 📫 How to reach me **atapattulohan@gmail.com**
+- 📫 How to reach me : **atapattulohan@gmail.com**
 
 <!--<h3 align="left">Connect with me:</h3> -->
 <p align="left">
