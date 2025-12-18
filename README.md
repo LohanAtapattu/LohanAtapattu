@@ -18,8 +18,6 @@
 ## 👨‍💻 About Me
 
 - 🔭 I’m passionate about **Electronic Circuit and Enclosure Design, PCB design, VLSI design, and Digital Systems Design.**
-- ⚡ **I have tapeouted several ICs**, including a fully differential operational amplifier.
-- 🎓 I am currently a final year undergraduate maintaining a **GPA of 3.74/4.0**.
 
 <br/>
 
@@ -84,29 +82,5 @@
 
 <br/>
 
-## 🎓 Education
 
-- **BSc. Engineering (Honours), Bio-Medical Engineering** | University of Moratuwa *(2021 - Present)*
-    - **GPA: 3.74/4.0**
-    - Focus: Analog Circuit Design, Digital Systems, Physiological Systems, Medical Imaging.
 
-- **Association of Chartered Certified Accountants (ACCA)** | UK *(2020 - Present)*
-
-- **Ananda College, Colombo** *(2012 - 2020)*
-    - GCE Advanced Level (Physical Science Stream): Z-Score 2.3086.
-
-<br/>
-
-## 🌟 Volunteering & Leadership
-
-- **Co-Chair** | IEEE EMBS Student Chapter (Brainstorm 2024)
-- **Pillar Head - Partnership Development** | Sasnaka Sansada (2021 - Present)
-- **Batch Representative** | Dept. of Electronic and Telecommunication Engineering (2024-2025)
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lohanatapattu&show_icons=true&theme=highcontrast&locale=en" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lohanatapattu&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="Languages" />
-</div>
